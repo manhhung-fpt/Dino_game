@@ -1,14 +1,8 @@
 # Dino Game - Game Dev
 
-[<img src="cover.png" width="80%" >](https://youtu.be/ooru4pyEv1I)
 
-### YouTube Tutorial:
-
-https://youtu.be/ooru4pyEv1I
 
 ### Try the game here:
-
-https://codingwith-adam.github.io/dino-game/index.html
 
 (On a mobile device play in landscape orientation for the best experience)
 
